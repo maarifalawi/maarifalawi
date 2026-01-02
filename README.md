@@ -1,14 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Maarif Alawi
-====================================================================================================================
+<h1 align="left">
+  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" alt="wave" />
+  I'm Maarif Alawi
+</h1>
 
-Data Scientist (Growth Analytics • KPI Dashboards • Experimentation)
--------------------------------------------------------------------
+**Data Scientist (Growth Analytics • KPI Dashboards • Experimentation)**
 
-I build decision-ready analytics: **clean metrics, dashboards, and experiments** that turn messy data into measurable growth.
+I build decision-ready analytics: **clean metrics, dashboards, and experiments** that turn messy data into measurable growth.  
 I’ve scaled social platforms to **1M+ audiences** and shipped **end-to-end tracking + KPI systems**.  
 Stack: **SQL, Python, Power BI** (plus full-stack execution when needed).
 
-**Quick facts**
+---
+
+### Quick facts
 - 🌍 Based in **Indonesia**
 - 🖥️ Portfolio: **http://maarifalawi.cyou**
 - ✉️ Email: **maarifalaawi@gmail.com**
@@ -18,34 +21,32 @@ Stack: **SQL, Python, Power BI** (plus full-stack execution when needed).
 
 ---
 
-## Featured Projects (Work-in-progress, real output > vibes)
+## Featured Projects (real output > vibes)
 - 📊 **Revenue & Retention Command Center** (Cohort, LTV, Driver Tree)  
-  _SQL + Python + Power BI_ • Repo: **[link]** • Demo: **[link]**
+  _SQL + Python + Power BI_ • Repo: **(soon)** • Demo: **(soon)**
 - 🧪 **Experiment Readouts & KPI Playbook**  
-  _Metric design, guardrails, and decision-ready reporting_ • Repo: **[link]**
+  _Metric design, guardrails, decision-ready reporting_ • Repo: **(soon)**
 - 📈 **Crypto Market Strategy Research** (Backtesting & Risk)  
-  _Binance market data, realistic fees/slippage_ • Repo: **[link]**
-
-> Replace **[link]** with your repos when ready. Don’t leave empty forever. Humans notice.
+  _Binance market data, realistic fees/slippage_ • Repo: **(soon)**
 
 ---
 
 ## Tech I Use
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" height="34" alt="Python" />
   </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/r-colored.svg" width="36" height="36" alt="R" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="34" height="34" alt="R" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="34" height="34" alt="PostgreSQL" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" height="34" alt="Git" />
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="34" height="34" alt="Linux" />
   </a>
 </p>
 
@@ -54,28 +55,26 @@ Stack: **SQL, Python, Power BI** (plus full-stack execution when needed).
 ## Socials
 <p align="left">
   <a href="https://www.linkedin.com/in/maarifalawi" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-    </picture>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" />
   </a>
   <a href="http://www.medium.com/maarifalawi" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" />
-    </picture>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="28" height="28" alt="Medium" />
   </a>
 </p>
 
 ---
 
 ## Stats
-<a href="http://www.github.com/maarifalawi">
-  <img src="https://github-readme-stats.vercel.app/api?username=maarifalawi&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" />
-</a>
+> If these images don’t render, it’s usually a network/Vercel block. Open the image links in a new tab to confirm.
 
-<a href="https://github.com/maarifalawi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarifalawi&langs_count=10&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+<p align="left">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maarifalawi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maarifalawi&layout=compact&langs_count=10&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=maarifalawi&hide_border=true" alt="GitHub Streak" />
+</p>
