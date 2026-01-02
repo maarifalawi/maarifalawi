@@ -57,7 +57,7 @@ Stack: **SQL, Python, Power BI** (plus full-stack execution when needed).
   <a href="https://www.linkedin.com/in/maarifalawi" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" />
   </a>
-  <a href="[http://www.medium.com/maarifalawi](https://medium.com/@maarifalawi)" target="_blank" rel="noreferrer">
+  <a href="https://www.medium.com/@maarifalawi" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="28" height="28" alt="Medium" />
   </a>
 </p>
