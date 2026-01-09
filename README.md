@@ -49,7 +49,6 @@ I’ve built end-to-end tracking + KPI systems and supported product teams scali
 - Bridge product + data + engineering so teams iterate with evidence, not guesswork  
 
 
----
 
 ## 🧠 Data Scientist Stats (numbers humans respect)
 
@@ -61,7 +60,6 @@ I’ve built end-to-end tracking + KPI systems and supported product teams scali
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarifalawi&layout=compact&bg_color=ffffff&title_color=6D597A&text_color=1f2937&border_color=EADCF3" />
 </p>
----
 
 #### ∞ contributions in the last year
 
