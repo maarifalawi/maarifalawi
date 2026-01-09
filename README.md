@@ -134,9 +134,7 @@ Modeling fundamentals + pipelines + data quality checks (in progress).
 </details>
 
 <!-- Snake (requires workflow, see below) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maarifalawi/maarifalawi/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c7b7,100:0b0f19&height=120&section=footer" />
