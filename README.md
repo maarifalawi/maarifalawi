@@ -71,15 +71,4 @@ Stack: **SQL, Python, Power BI** (plus full-stack execution when needed).
 
 ---
 
-## Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maarifalawi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarifalawi&layout=compact&langs_count=10&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maarifalawi&hide_border=true" alt="GitHub Streak" />
-</p>
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
