@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=700&color=6D597A&center=true&vCenter=true&width=780&lines=Data+Scientist+%7C+Growth+Analytics;Clean+metrics+%E2%86%92+Decision-ready+dashboards;Experimentation+%E2%86%92+Measurable+growth;SQL+%2B+Python+%2B+BI+%2B+Product+thinking" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=700&color=6D597A&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+Growth+Analytics+%26+Experimentation;Define+metric+%E2%86%92+Instrument+%E2%86%92+Find+lever+%E2%86%92+Test+%E2%86%92+Ship+%E2%86%92+Monitor;Decision-ready+dashboards+%7C+Product-minded+execution;SQL+%2B+Python+%2B+BI+%2B+Full-stack+when+needed" />
 </p>
 
 <p align="center">
@@ -14,6 +14,7 @@
   <a href="mailto:maarifalaawi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-BDE0FE?style=for-the-badge&logo=gmail&logoColor=1f2937"></a>
   <a href="https://www.linkedin.com/in/maarifalawi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-CDB4DB?style=for-the-badge&logo=linkedin&logoColor=1f2937"></a>
   <a href="https://www.medium.com/@maarifalawi"><img alt="Medium" src="https://img.shields.io/badge/Medium-E2F0CB?style=for-the-badge&logo=medium&logoColor=1f2937"></a>
+  <a href="https://www.instagram.com/maarifalawii/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-FFD6A5?style=for-the-badge&logo=instagram&logoColor=1f2937"></a>
 </p>
 
 <p align="center">
@@ -23,25 +24,50 @@
 ---
 
 ## 👋 Hi there
-I’m **Maarif Alawi** — a **Data Scientist (Growth Analytics • KPI Dashboards • Experimentation)** based in **Indonesia**.
 
-I build **decision-ready analytics**: clean metrics, trustworthy dashboards, and experiments that turn messy data into measurable growth.  
-I’ve shipped **end-to-end tracking + KPI systems** and helped scale social platforms to **1M+ audiences**.
+I’m **Maarif Alawi** — a Data Scientist focused on **Growth Analytics & Experimentation**, based in **Indonesia**.
 
-**Core stack:** SQL • Python • Power BI  
-**Also:** dbt • Airflow • Spark • Docker • Cloud basics
+I build growth systems that end in **shipped changes, not slides**:  
+**define the metric → instrument it right → find the lever → run the test → ship the change → monitor the impact.**
 
----
-
-## 📌 What I do (without the fluff)
-- **Metric systems:** North Star, guardrails, definitions, governance
-- **Dashboards:** exec-ready KPI + drilldowns + driver trees
-- **Experimentation:** design, readouts, interpretation, iteration loops
-- **Data engineering lite:** modeling (dbt), pipelines (Airflow), analytics layers
+I’ve built end-to-end tracking + KPI systems and supported product teams scaling to **1M+ audiences**, turning messy data into clear decisions with measurable outcomes.
 
 ---
 
-## 🧠 Data Scientist Stats (aka “numbers humans respect”)
+## What I do
+
+### 1) Data Science (Growth / Analytics)
+- Design metric systems people trust: **North Star + guardrails**, clear definitions, governance, and alignment across teams  
+- Build exec-ready dashboards that answer **“what happened, why, and what we do next”** (drilldowns + driver trees)  
+- Run experiments with clean readouts: **guardrails, instrumentation checks, action-focused recommendations**  
+- Ship lightweight analytics pipelines so insights don’t die after one report  
+
+### 2) Full-Stack Web Apps (Product-minded execution)
+- Ship production web apps end-to-end: **UI → backend → database → deployment**  
+- Build internal tools that save time: admin panels, reporting hubs, campaign monitors, data QA tooling  
+- Bake in analytics from day one: **event schemas, funnels, attribution-ready tracking, decision logs**  
+- Bridge product + data + engineering so teams iterate with evidence, not guesswork  
+
+---
+
+## Selected work (real outputs > vibes)
+- **Revenue & Retention Command Center** — Cohort retention + LTV views, driver breakdowns, exec dashboards for weekly decisions  
+- **Experiment Readout System** — Standardized A/B workflow: guardrails, instrumentation sanity checks, “what to ship next” summaries  
+- **Campaign / Content Radar** — Monitoring + alerts for spikes/drops, shareable stakeholder reports  
+
+---
+
+## The kind of problems I’m great at
+- “We have data, but nobody agrees on the numbers.”  
+- “Dashboards exist, but nobody knows what to do next.”  
+- “We run experiments, but learnings don’t turn into shipped changes.”  
+
+If you need someone who can analyze like a Data Scientist and ship like a builder:  
+**Open to Growth DS / Product Analytics / Experimentation (Indonesia / Remote).**
+
+---
+
+## 🧠 Data Scientist Stats (numbers humans respect)
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=maarifalawi&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=6D597A&text_color=1f2937&icon_color=6D597A&border_color=EADCF3" />
@@ -52,115 +78,84 @@ I’ve shipped **end-to-end tracking + KPI systems** and helped scale social pla
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarifalawi&layout=compact&bg_color=ffffff&title_color=6D597A&text_color=1f2937&border_color=EADCF3" />
 </p>
 
-### ∞ contributions in the last year
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=maarifalawi&bg_color=ffffff&color=6D597A&line=6D597A&point=1f2937&area=true&hide_border=true" alt="Contribution Graph" width="100%" /> |
+---
+
+#### ∞ contributions in the last year
+
+| <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="100%" height="120px" /> |
 | --- |
 
 [Learn how we count contributions](https://www.maarifalawi.cyou/)
 
 ---
 
-## ⭐ Featured Projects (real output > vibes)
+## ⚙️ Tech Stack (Data Science vs Web)
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📊 Revenue & Retention Command Center</h3>
-      <p><b>Cohort</b> • <b>LTV</b> • <b>Driver Tree</b> • Executive KPI views</p>
-      <p><code>SQL</code> <code>Python</code> <code>Power BI</code></p>
-      <p>
-        <a href="https://github.com/maarifalawi/REPLACE_WITH_REPO">Repo</a> •
-        <a href="REPLACE_WITH_DEMO_LINK">Demo</a>
-      </p>
-      <ul>
-        <li>Clean metric layer: definitions & consistency checks</li>
-        <li>Cohort retention matrix + LTV maturity windows</li>
-        <li>Driver decomposition: revenue = users × freq × AOV</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🧪 Experiment Readouts & KPI Playbook</h3>
-      <p>Metric design • guardrails • decision-ready reporting</p>
-      <p><code>Experimentation</code> <code>Product Analytics</code> <code>Growth</code></p>
-      <p>
-        <a href="https://github.com/maarifalawi/REPLACE_WITH_REPO">Repo</a> •
-        <a href="REPLACE_WITH_DOC_OR_DEMO">Docs</a>
-      </p>
-      <ul>
-        <li>Templates: hypothesis → metric → sample → readout</li>
-        <li>Guardrail framework + interpretation checklist</li>
-        <li>Outcome-driven executive summary</li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3>📈 Crypto Market Strategy Research</h3>
-      <p>Backtesting • risk controls • realistic fees/slippage</p>
-      <p><code>Python</code> <code>Time Series</code> <code>Research</code></p>
-      <p>
-        <a href="https://github.com/maarifalawi/REPLACE_WITH_REPO">Repo</a> •
-        <a href="REPLACE_WITH_NOTEBOOK">Notebook</a>
-      </p>
-      <ul>
-        <li>Strategy evaluation with robust metrics</li>
-        <li>Position sizing + drawdown controls</li>
-        <li>Reproducible research pipeline</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🧩 Data Product Experiments</h3>
-      <p>Tracking • UTM hygiene • funnel + activation insights</p>
-      <p><code>SQL</code> <code>Analytics Engineering</code> <code>BI</code></p>
-      <p>
-        <a href="https://github.com/maarifalawi/REPLACE_WITH_REPO">Repo</a> •
-        <a href="REPLACE_WITH_DEMO_LINK">Demo</a>
-      </p>
-      <ul>
-        <li>Event taxonomy & tracking plan</li>
-        <li>Funnel drop-off & retention drivers</li>
-        <li>Dashboard that answers “so what?”</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## ⚙️ Tech Stack (curated, not a phonebook)
+### Data Science / Analytics
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-FFC8DD?style=flat-square&logo=python&logoColor=1f2937" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-BDE0FE?style=flat-square&logo=postgresql&logoColor=1f2937" />
+  <img alt="R" src="https://img.shields.io/badge/R-CDB4DB?style=flat-square&logo=r&logoColor=1f2937" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-FFD6A5?style=flat-square&logo=jupyter&logoColor=1f2937" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-E2F0CB?style=flat-square&logo=pandas&logoColor=1f2937" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-A0C4FF?style=flat-square&logo=numpy&logoColor=1f2937" />
+  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-FFADAD?style=flat-square&logo=scipy&logoColor=1f2937" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-CAFFBF?style=flat-square&logo=scikitlearn&logoColor=1f2937" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-FFD6A5?style=flat-square&logo=pytorch&logoColor=1f2937" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FFC8DD?style=flat-square&logo=tensorflow&logoColor=1f2937" />
+  <img alt="Plotly" src="https://img.shields.io/badge/Plotly-CDB4DB?style=flat-square&logo=plotly&logoColor=1f2937" />
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-E2F0CB?style=flat-square&logo=powerbi&logoColor=1f2937" />
-  <img alt="dbt" src="https://img.shields.io/badge/dbt-CDB4DB?style=flat-square&logo=dbt&logoColor=1f2937" />
-  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-FFD6A5?style=flat-square&logo=apacheairflow&logoColor=1f2937" />
-  <img alt="Spark" src="https://img.shields.io/badge/Spark-FFADAD?style=flat-square&logo=apachespark&logoColor=1f2937" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-A0C4FF?style=flat-square&logo=docker&logoColor=1f2937" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-BDB2FF?style=flat-square&logo=amazonaws&logoColor=1f2937" />
-  <img alt="GCP" src="https://img.shields.io/badge/GCP-CAFFBF?style=flat-square&logo=googlecloud&logoColor=1f2937" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-BDE0FE?style=flat-square&logo=tableau&logoColor=1f2937" />
+  <img alt="dbt" src="https://img.shields.io/badge/dbt-FFADAD?style=flat-square&logo=dbt&logoColor=1f2937" />
+  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-A0C4FF?style=flat-square&logo=apacheairflow&logoColor=1f2937" />
+  <img alt="Spark" src="https://img.shields.io/badge/Spark-FFD6A5?style=flat-square&logo=apachespark&logoColor=1f2937" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-BDB2FF?style=flat-square&logo=docker&logoColor=1f2937" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-FFADAD?style=flat-square&logo=git&logoColor=1f2937" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-BDE0FE?style=flat-square&logo=githubactions&logoColor=1f2937" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-E2F0CB?style=flat-square&logo=linux&logoColor=1f2937" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-FFC8DD?style=flat-square&logo=amazonaws&logoColor=1f2937" />
+  <img alt="GCP" src="https://img.shields.io/badge/GCP-BDE0FE?style=flat-square&logo=googlecloud&logoColor=1f2937" />
 </p>
 
-<details>
-  <summary><b>More tools I use (click to expand)</b></summary>
-
-  - ML: scikit-learn, PyTorch, TensorFlow  
-  - Analytics: Pandas, NumPy, SciPy, Plotly  
-  - Workflow: Git, GitHub Actions, Linux  
-</details>
+### Web / Full-Stack (Product Apps)
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-CDB4DB?style=flat-square&logo=typescript&logoColor=1f2937" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFD6A5?style=flat-square&logo=javascript&logoColor=1f2937" />
+  <img alt="React" src="https://img.shields.io/badge/React-A0C4FF?style=flat-square&logo=react&logoColor=1f2937" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-E2F0CB?style=flat-square&logo=nextdotjs&logoColor=1f2937" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-CAFFBF?style=flat-square&logo=nodedotjs&logoColor=1f2937" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-FFC8DD?style=flat-square&logo=express&logoColor=1f2937" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-BDE0FE?style=flat-square&logo=fastapi&logoColor=1f2937" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-BDB2FF?style=flat-square&logo=postgresql&logoColor=1f2937" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-FFADAD?style=flat-square&logo=redis&logoColor=1f2937" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-E2F0CB?style=flat-square&logo=supabase&logoColor=1f2937" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFD6A5?style=flat-square&logo=firebase&logoColor=1f2937" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-A0C4FF?style=flat-square&logo=tailwindcss&logoColor=1f2937" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-CDB4DB?style=flat-square&logo=vite&logoColor=1f2937" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-BDB2FF?style=flat-square&logo=docker&logoColor=1f2937" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-FFC8DD?style=flat-square&logo=vercel&logoColor=1f2937" />
+  <img alt="Render" src="https://img.shields.io/badge/Render-BDE0FE?style=flat-square&logo=render&logoColor=1f2937" />
+</p>
 
 ---
 
-## 🌐 Socials
+## 🌐 Socials (clean + nicer)
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/maarifalawi" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/maarifalawi">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-6D597A?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
   </a>
-  <a href="https://www.medium.com/@maarifalawi" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="28" height="28" alt="Medium" />
+  <a href="mailto:maarifalaawi@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-FFC8DD?style=for-the-badge&logo=gmail&logoColor=1f2937" />
   </a>
-  <a href="https://www.instagram.com/maarifalawii/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="28" height="28" alt="Instagram" />
+  <a href="http://maarifalawi.cyou">
+    <img alt="Website" src="https://img.shields.io/badge/Website-BDE0FE?style=for-the-badge&logo=googlechrome&logoColor=1f2937" />
+  </a>
+  <a href="https://www.medium.com/@maarifalawi">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-E2F0CB?style=for-the-badge&logo=medium&logoColor=1f2937" />
+  </a>
+  <a href="https://www.instagram.com/maarifalawii/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-FFD6A5?style=for-the-badge&logo=instagram&logoColor=1f2937" />
   </a>
 </p>
 
@@ -169,7 +164,3 @@ I’ve shipped **end-to-end tracking + KPI systems** and helped scale social pla
 </p>
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" width="520" /></p>
-
-<!-- =========================
-     End
-========================== -->
