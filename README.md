@@ -1,114 +1,123 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Maarif Alawi, Data Sceintist :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-  <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
+<!-- HERO -->
+<div align="left">
 
- </abc>
+<h1>
+  Hi, I'm Maarif Alawi
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" alt="wave" />
+</h1>
 
-</h2> 
-
-
-
-<h3>Things I code with</h3>
-<p>
-  <!-- Core -->
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-
-  <!-- Data & Analytics -->
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-
-  <!-- Data Engineering -->
-  <img alt="dbt" src="https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-  <img alt="Apache Airflow" src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img alt="Apache Spark" src="https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-
-  <!-- Viz / BI -->
-  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-
-  <!-- Cloud / Dev -->
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-</p>
-
-
-**Data Scientist (Growth Analytics • KPI Dashboards • Experimentation)**
+**Data Scientist | Growth Analytics • KPI Dashboards • Experimentation**
 
 I build decision-ready analytics: **clean metrics, dashboards, and experiments** that turn messy data into measurable growth.  
-I’ve scaled social platforms to **1M+ audiences** and shipped **end-to-end tracking + KPI systems**.  
-Stack: **SQL, Python, Power BI** (plus full-stack execution when needed).
+Scaled social platforms to **1M+ audiences**, shipped **end-to-end tracking + KPI systems**.  
+Stack: **SQL • Python • Power BI** (and full-stack execution when needed).
+
+<p>
+  <a href="http://maarifalawi.cyou"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/maarifalawi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:maarifalaawi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://olist-intelligence.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Open-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+</div>
 
 ---
 
-### Quick facts
-- 🌍 Based in **Indonesia**
-- 🖥️ Portfolio: **http://maarifalawi.cyou**
-- ✉️ Email: **maarifalaawi@gmail.com**
-- 🧠 Learning: **dbt + data engineering fundamentals** (ETL, modeling, pipelines)
-- 🤝 Open to: **Growth analytics, KPI dashboards, experiment design, data products**
-- 💬 Ask me about: **metric definitions, dashboard reviews, tracking/UTM setup**
+## What I’m good at (real output > vibes)
+- **Metric systems**: north star, guardrails, KPI definitions, source of truth
+- **Dashboards**: decision-first design, driver trees, cohort retention & LTV
+- **Experimentation**: hypothesis, design, readouts, and “so what?” decisions
+- **Tracking & data quality**: UTM/tracking plan, event naming, validation checks
 
 ---
 
-## Featured Projects (real output > vibes)
-- 📊 **Revenue & Retention Command Center** (Cohort, LTV, Driver Tree)  
-  _SQL + Python + Power BI_ • Repo: **(soon)** • Demo: **(soon)**
-- 🧪 **Experiment Readouts & KPI Playbook**  
-  _Metric design, guardrails, decision-ready reporting_ • Repo: **(soon)**
-- 📈 **Crypto Market Strategy Research** (Backtesting & Risk)  
-  _Binance market data, realistic fees/slippage_ • Repo: **(soon)**
+## Featured Projects
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📊 Revenue & Retention Command Center</h3>
+      <p>
+        Cohort retention, observed LTV, driver tree, weekly decision system.
+        <br/><br/>
+        <b>Stack:</b> SQL • Python • Power BI
+      </p>
+      <p>
+        <a href="https://github.com/maarifalawi/remix-of-remix-of-olist-insights-hub"><img src="https://img.shields.io/badge/Repo-View-222222?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://olist-intelligence.vercel.app"><img src="https://img.shields.io/badge/Demo-Open-00C7B7?style=flat-square&logo=vercel&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🧪 Experiment Readouts & KPI Playbook</h3>
+      <p>
+        Decision-ready experiment templates: setup → results → interpretation → next steps.
+        <br/><br/>
+        <b>Focus:</b> guardrails • tradeoffs • decision rules
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Repo-Soon-777777?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📈 Crypto Market Strategy Research</h3>
+      <p>
+        Backtesting with realistic fees/slippage + risk-aware evaluation.
+        <br/><br/>
+        <b>Stack:</b> Python • Pandas • Plotly
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Repo-Soon-777777?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🧱 Data Engineering Practice</h3>
+      <p>
+        Modeling fundamentals: dbt-style thinking, pipelines, data quality checks.
+        <br/><br/>
+        <b>Tools:</b> dbt • Airflow • Spark (learning)
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Notes-In%20Progress-777777?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Tech I Use
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" height="34" alt="Python" />
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="34" height="34" alt="R" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="34" height="34" alt="PostgreSQL" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" height="34" alt="Git" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="34" height="34" alt="Linux" />
-  </a>
+## Tools I actually use
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
 </p>
 
 ---
 
 ## Socials
-<p align="left">
-  <a href="https://www.linkedin.com/in/maarifalawi" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" />
-  </a>
-  <a href="https://www.medium.com/@maarifalawi" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="28" height="28" alt="Medium" />
-  </a>
-  <a href="https://www.instagram.com/maarifalawii/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="28" height="28" alt="Medium" />
-  </a>
+<p>
+  <a href="https://www.linkedin.com/in/maarifalawi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@maarifalawi"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
+  <a href="https://www.instagram.com/maarifalawii/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+<details>
+  <summary><b>📈 GitHub Stats (optional)</b></summary>
+  <br/>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=maarifalawi&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarifalawi&layout=compact&langs_count=10&hide_border=true&cache_seconds=86400" alt="Top languages" />
+  </p>
+</details>
