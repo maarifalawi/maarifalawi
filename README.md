@@ -55,7 +55,6 @@ I’ve built end-to-end tracking + KPI systems and supported product teams scali
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maarifalawi&theme=github" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maarifalawi&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maarifalawi&theme=github&utcOffset=7" />
 </p>
 
 
