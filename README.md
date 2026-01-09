@@ -48,22 +48,6 @@ I’ve built end-to-end tracking + KPI systems and supported product teams scali
 - Bake in analytics from day one: **event schemas, funnels, attribution-ready tracking, decision logs**  
 - Bridge product + data + engineering so teams iterate with evidence, not guesswork  
 
----
-
-## Selected work (real outputs > vibes)
-- **Revenue & Retention Command Center** — Cohort retention + LTV views, driver breakdowns, exec dashboards for weekly decisions  
-- **Experiment Readout System** — Standardized A/B workflow: guardrails, instrumentation sanity checks, “what to ship next” summaries  
-- **Campaign / Content Radar** — Monitoring + alerts for spikes/drops, shareable stakeholder reports  
-
----
-
-## The kind of problems I’m great at
-- “We have data, but nobody agrees on the numbers.”  
-- “Dashboards exist, but nobody knows what to do next.”  
-- “We run experiments, but learnings don’t turn into shipped changes.”  
-
-If you need someone who can analyze like a Data Scientist and ship like a builder:  
-**Open to Growth DS / Product Analytics / Experimentation (Indonesia / Remote).**
 
 ---
 
@@ -138,28 +122,3 @@ If you need someone who can analyze like a Data Scientist and ship like a builde
 
 ---
 
-## 🌐 Socials (clean + nicer)
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/maarifalawi">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-6D597A?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
-  </a>
-  <a href="mailto:maarifalaawi@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-FFC8DD?style=for-the-badge&logo=gmail&logoColor=1f2937" />
-  </a>
-  <a href="http://maarifalawi.cyou">
-    <img alt="Website" src="https://img.shields.io/badge/Website-BDE0FE?style=for-the-badge&logo=googlechrome&logoColor=1f2937" />
-  </a>
-  <a href="https://www.medium.com/@maarifalawi">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-E2F0CB?style=for-the-badge&logo=medium&logoColor=1f2937" />
-  </a>
-  <a href="https://www.instagram.com/maarifalawii/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-FFD6A5?style=for-the-badge&logo=instagram&logoColor=1f2937" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maarifalawi.maarifalawi" alt="Visitor Badge" />
-</p>
-
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" width="520" /></p>
