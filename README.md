@@ -119,4 +119,6 @@ I’ve built end-to-end tracking + KPI systems and supported product teams scali
 </p>
 
 ---
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maarifalawi&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maarifalawi&theme=github)
 
