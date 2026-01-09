@@ -1,253 +1,114 @@
-<!-- =========================
-     HERO (PASTEL + ANIMATED)
-========================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CDB4DB,50:FFC8DD,100:A2D2FF&height=185&section=header&text=Maarif%20Alawi&fontSize=50&fontColor=2B2B2B&animation=fadeIn&fontAlignY=35" />
+<h2 align="left">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Maarif Alawi, Data Sceintist :computer:<br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+ </abc>
+
+</h2> 
+
+
+
+<h3>Things I code with</h3>
+<p>
+  <!-- Core -->
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+
+  <!-- Data & Analytics -->
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+
+  <!-- Data Engineering -->
+  <img alt="dbt" src="https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+  <img alt="Apache Airflow" src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img alt="Apache Spark" src="https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+  <!-- Viz / BI -->
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+
+  <!-- Cloud / Dev -->
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=700&color=7FBCEB&center=true&vCenter=true&width=860&lines=Data+Scientist+%7C+Growth+Analytics;KPI+Dashboards+%7C+Driver+Trees;Experimentation+%7C+Decision+Systems;SQL+%2B+Python+%2B+Power+BI" alt="Typing SVG" />
-</p>
 
-<!-- Soft Pastel Buttons -->
-<p align="center">
-  <a href="http://maarifalawi.cyou">
-    <img src="https://img.shields.io/badge/Portfolio-maarifalawi.cyou-A2D2FF?style=for-the-badge&logo=vercel&logoColor=2B2B2B&labelColor=FFF6FB" />
-  </a>
-  <a href="https://olist-intelligence.vercel.app">
-    <img src="https://img.shields.io/badge/Live%20Demo-olist--intelligence.vercel.app-FFC8DD?style=for-the-badge&logo=vercel&logoColor=2B2B2B&labelColor=FFF6FB" />
-  </a>
-  <a href="https://www.linkedin.com/in/maarifalawi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-CDB4DB?style=for-the-badge&logo=linkedin&logoColor=2B2B2B&labelColor=FFF6FB" />
-  </a>
-  <a href="mailto:maarifalaawii@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-BDE0FE?style=for-the-badge&logo=gmail&logoColor=2B2B2B&labelColor=FFF6FB" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e3d-9e79-4c79-8b20-1ed07a9a0e03.gif" width="100%" alt="divider" />
-</p>
-
-<!-- Mini pastel divider (safe in GitHub) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC8DD,100:A2D2FF&height=6&section=header" width="92%" />
-</p>
-
-<!-- =========================
-     NAV (CLEAN)
-========================== -->
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#featured-projects-real-output--vibes">Projects</a> •
-  <a href="#things-i-code-with">Stack</a> •
-  <a href="#socials">Socials</a> •
-  <a href="#github-stats-open-if-you-care">Stats</a>
-</p>
-
-<br/>
-
-<!-- =========================
-     ABOUT (NO QUICK FACTS)
-========================== -->
-<table>
-  <tr>
-    <td width="62%" valign="top">
-
-## About
 **Data Scientist (Growth Analytics • KPI Dashboards • Experimentation)**
 
 I build decision-ready analytics: **clean metrics, dashboards, and experiments** that turn messy data into measurable growth.  
-Scaled social platforms to **1M+ audiences** and shipped **end-to-end tracking + KPI systems**.  
-Core stack: **SQL • Python • Power BI** (plus full-stack execution when needed).
+I’ve scaled social platforms to **1M+ audiences** and shipped **end-to-end tracking + KPI systems**.  
+Stack: **SQL, Python, Power BI** (plus full-stack execution when needed).
 
-### What I do (biar gak jadi pajangan doang)
-- **Metrics & KPI system**: definisi metrik, guardrails, single source of truth  
-- **Decision dashboards**: diagnosis → driver → rekomendasi (bukan cuma chart)  
-- **Experimentation**: desain eksperimen, analisis, readout, next steps  
-- **Tracking & instrumentation**: event spec, UTM hygiene, data QA
+---
 
-    </td>
-    <td width="38%" align="center" valign="top">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="320" alt="coding gif" />
-      <br/><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1800&pause=700&color=CDB4DB&center=true&vCenter=true&width=320&lines=Dashboards+that+answer+%22why%22.;Experiments+with+decision+impact.;Metrics+people+actually+trust." alt="micro typing" />
-    </td>
-  </tr>
-</table>
+### Quick facts
+- 🌍 Based in **Indonesia**
+- 🖥️ Portfolio: **http://maarifalawi.cyou**
+- ✉️ Email: **maarifalaawi@gmail.com**
+- 🧠 Learning: **dbt + data engineering fundamentals** (ETL, modeling, pipelines)
+- 🤝 Open to: **Growth analytics, KPI dashboards, experiment design, data products**
+- 💬 Ask me about: **metric definitions, dashboard reviews, tracking/UTM setup**
 
 ---
 
 ## Featured Projects (real output > vibes)
-
-<!-- ✅ 1 PROJECT = 1 CARD (STABLE, GAK BERANTAKAN) -->
-
-<table>
-  <tr>
-    <td width="44%" valign="top">
-      <a href="https://olist-intelligence.vercel.app">
-        <img src="https://opengraph.githubassets.com/1/maarifalawi/remix-of-remix-of-olist-insights-hub" width="100%" alt="Project preview" />
-      </a>
-    </td>
-    <td width="56%" valign="top">
-
-### 📊 Revenue & Retention Command Center
-Cohort retention, observed LTV, driver tree, weekly decision system.
-
-**Stack:** SQL • Python • Power BI  
-**What it solves:** KPI clarity → diagnosis → weekly actions (bukan “grafik bagus doang”).
-
-<p>
-  <a href="https://github.com/maarifalawi/remix-of-remix-of-olist-insights-hub">
-    <img src="https://img.shields.io/badge/Repo-View-A2D2FF?style=flat-square&logo=github&logoColor=2B2B2B&labelColor=FFF6FB" />
-  </a>
-  <a href="https://olist-intelligence.vercel.app">
-    <img src="https://img.shields.io/badge/Demo-Open-FFC8DD?style=flat-square&logo=vercel&logoColor=2B2B2B&labelColor=FFF6FB" />
-  </a>
-</p>
-
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table>
-  <tr>
-    <td width="44%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:CDB4DB,100:BDE0FE&height=140&section=header&text=Experiment%20Readouts&fontSize=26&fontColor=2B2B2B&animation=twinkling" width="100%" alt="Experiment card" />
-    </td>
-    <td width="56%" valign="top">
-
-### 🧪 Experiment Readouts & KPI Playbook
-Templates: setup → results → interpretation → “so what?” → next steps.
-
-**Focus:** keputusan yang bisa dieksekusi (bukan “p-value worship”).  
-**Status:** building.
-
-<img src="https://img.shields.io/badge/Repo-Soon-CDB4DB?style=flat-square&logo=github&logoColor=2B2B2B&labelColor=FFF6FB" />
-
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table>
-  <tr>
-    <td width="44%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFC8DD,100:A2D2FF&height=140&section=header&text=Crypto%20Strategy%20Research&fontSize=24&fontColor=2B2B2B&animation=twinkling" width="100%" alt="Crypto card" />
-    </td>
-    <td width="56%" valign="top">
-
-### 📈 Crypto Market Strategy Research
-Backtesting with realistic fees/slippage + risk-aware evaluation.
-
-**Focus:** risk, drawdown, robustness (biar gak jadi backtest halu).  
-**Status:** building.
-
-<img src="https://img.shields.io/badge/Repo-Soon-FFC8DD?style=flat-square&logo=github&logoColor=2B2B2B&labelColor=FFF6FB" />
-
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table>
-  <tr>
-    <td width="44%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:BDE0FE,100:CDB4DB&height=140&section=header&text=Data%20Engineering%20Practice&fontSize=23&fontColor=2B2B2B&animation=twinkling" width="100%" alt="DE card" />
-    </td>
-    <td width="56%" valign="top">
-
-### 🧱 Data Engineering Practice
-Modeling fundamentals + pipelines + data quality checks (in progress).
-
-**Focus:** dbt modeling + QA checks + orchestration basics.  
-**Status:** in progress.
-
-<img src="https://img.shields.io/badge/Notes-In%20Progress-BDE0FE?style=flat-square&logo=notion&logoColor=2B2B2B&labelColor=FFF6FB" />
-
-    </td>
-  </tr>
-</table>
+- 📊 **Revenue & Retention Command Center** (Cohort, LTV, Driver Tree)  
+  _SQL + Python + Power BI_ • Repo: **(soon)** • Demo: **(soon)**
+- 🧪 **Experiment Readouts & KPI Playbook**  
+  _Metric design, guardrails, decision-ready reporting_ • Repo: **(soon)**
+- 📈 **Crypto Market Strategy Research** (Backtesting & Risk)  
+  _Binance market data, realistic fees/slippage_ • Repo: **(soon)**
 
 ---
 
-## Things I code with
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,git,docker,github,linux&perline=12" />
-</p>
-
-<p align="center">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=2B2B2B&labelColor=FFF6FB" />
-  <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=2B2B2B&labelColor=FFF6FB" />
-  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=2B2B2B&labelColor=FFF6FB" />
+## Tech I Use
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" height="34" alt="Python" />
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="34" height="34" alt="R" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="34" height="34" alt="PostgreSQL" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" height="34" alt="Git" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="34" height="34" alt="Linux" />
+  </a>
 </p>
 
 ---
 
 ## Socials
-
-<!-- ✅ STABLE ICONS (SIMPLEICONS CDN) + CLEAN GRID -->
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <a href="https://www.linkedin.com/in/maarifalawi" target="_blank">
-        <img src="https://cdn.simpleicons.org/linkedin/A2D2FF" width="44" height="44" alt="LinkedIn" />
-      </a>
-      <br/>
-      <sub><b>LinkedIn</b></sub>
-    </td>
-
-    <td align="center" width="140">
-      <a href="mailto:maarifalaawii@gmail.com" target="_blank">
-        <img src="https://cdn.simpleicons.org/gmail/FFC8DD" width="44" height="44" alt="Email" />
-      </a>
-      <br/>
-      <sub><b>Email</b></sub>
-    </td>
-
-    <td align="center" width="140">
-      <a href="https://medium.com/@maarifalawi" target="_blank">
-        <img src="https://cdn.simpleicons.org/medium/CDB4DB" width="44" height="44" alt="Medium" />
-      </a>
-      <br/>
-      <sub><b>Medium</b></sub>
-    </td>
-
-    <td align="center" width="140">
-      <a href="https://www.instagram.com/maarifalawii/" target="_blank">
-        <img src="https://cdn.simpleicons.org/instagram/BDE0FE" width="44" height="44" alt="Instagram" />
-      </a>
-      <br/>
-      <sub><b>Instagram</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:CDB4DB,100:A2D2FF&height=6&section=header" width="92%" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/maarifalawi" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" />
+  </a>
+  <a href="https://www.medium.com/@maarifalawi" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="28" height="28" alt="Medium" />
+  </a>
+  <a href="https://www.instagram.com/maarifalawii/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="28" height="28" alt="Medium" />
+  </a>
 </p>
 
-<details>
-  <summary><b>📈 GitHub Stats (open if you care)</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=maarifalawi&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarifalawi&layout=compact&langs_count=10&hide_border=true&cache_seconds=86400" alt="Top languages" />
-  </p>
-</details>
+---
 
-<!-- Snake (keep your animation) -->
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A2D2FF,50:FFC8DD,100:CDB4DB&height=120&section=footer" />
-</p>
