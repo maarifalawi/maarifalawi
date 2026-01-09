@@ -69,14 +69,12 @@ If you need someone who can analyze like a Data Scientist and ship like a builde
 
 ## 🧠 Data Scientist Stats (numbers humans respect)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maarifalawi&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=6D597A&text_color=1f2937&icon_color=6D597A&border_color=EADCF3" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=maarifalawi&background=ffffff&ring=6D597A&fire=6D597A&currStreakLabel=6D597A&sideLabels=6D597A&dates=1f2937&sideNums=1f2937&currStreakNum=1f2937&border=EADCF3" />
-</p>
+| GitHub Stats | Streak |
+| --- | --- |
+| ![](https://github-readme-stats.vercel.app/api?username=maarifalawi&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=6D597A&text_color=1f2937&icon_color=6D597A&border_color=EADCF3&cache_seconds=86400) | ![](https://streak-stats.demolab.com?user=maarifalawi&background=ffffff&ring=6D597A&fire=6D597A&currStreakLabel=6D597A&sideLabels=6D597A&dates=1f2937&sideNums=1f2937&currStreakNum=1f2937&border=EADCF3) |
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarifalawi&layout=compact&bg_color=ffffff&title_color=6D597A&text_color=1f2937&border_color=EADCF3" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maarifalawi&layout=compact&bg_color=ffffff&title_color=6D597A&text_color=1f2937&border_color=EADCF3&cache_seconds=86400)
+
 
 ---
 
