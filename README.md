@@ -68,16 +68,14 @@ Stack: **SQL, Python, Power BI** (plus full-stack execution when needed).
 ---
 
 ## Stats
-> If these images don’t render, it’s usually a network/Vercel block. Open the image links in a new tab to confirm.
-
 <p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maarifalawi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maarifalawi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maarifalawi&layout=compact&langs_count=10&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarifalawi&layout=compact&langs_count=10&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=maarifalawi&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maarifalawi&hide_border=true" alt="GitHub Streak" />
 </p>
