@@ -39,14 +39,10 @@ I’ve built end-to-end tracking + KPI systems and supported product teams scali
 ### 1) Data Science (Growth / Analytics)
 - Design metric systems people trust: **North Star + guardrails**, clear definitions, governance, and alignment across teams  
 - Build exec-ready dashboards that answer **“what happened, why, and what we do next”** (drilldowns + driver trees)  
-- Run experiments with clean readouts: **guardrails, instrumentation checks, action-focused recommendations**  
-- Ship lightweight analytics pipelines so insights don’t die after one report  
 
 ### 2) Full-Stack Web Apps (Product-minded execution)
 - Ship production web apps end-to-end: **UI → backend → database → deployment**  
 - Build internal tools that save time: admin panels, reporting hubs, campaign monitors, data QA tooling  
-- Bake in analytics from day one: **event schemas, funnels, attribution-ready tracking, decision logs**  
-- Bridge product + data + engineering so teams iterate with evidence, not guesswork  
 
 
 
@@ -116,3 +112,4 @@ I’ve built end-to-end tracking + KPI systems and supported product teams scali
 </p>
 
 ---
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
