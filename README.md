@@ -113,3 +113,6 @@ I’ve built end-to-end tracking + KPI systems and supported product teams scali
 
 ---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maarifalawi&label=PROFILE%20VIEWS&color=6D597A&style=for-the-badge" />
+</p>
