@@ -223,10 +223,11 @@ class TransactionSimulator:
             timestamp = start_dt + timedelta(seconds=int(offset_seconds))
 
             # Realistic hour distribution (more during business hours)
-            hour_weights = [0.02, 0.01, 0.01, 0.01, 0.02, 0.03,
+            hour_weights = np.array([0.02, 0.01, 0.01, 0.01, 0.02, 0.03,
                           0.05, 0.07, 0.08, 0.09, 0.09, 0.09,
                           0.08, 0.07, 0.06, 0.05, 0.04, 0.04,
-                          0.03, 0.02, 0.02, 0.01, 0.01, 0.01]
+                          0.03, 0.02, 0.02, 0.01, 0.01, 0.01])
+            hour_weights = hour_weights / hour_weights.sum()  # Normalize to sum=1
             hour = self.rng.choice(24, p=hour_weights)
             timestamp = timestamp.replace(
                 hour=hour, minute=self.rng.integers(0, 60)
