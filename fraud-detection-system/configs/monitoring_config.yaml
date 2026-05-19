@@ -1,0 +1,51 @@
+# Monitoring Configuration
+# ==============================
+
+prometheus:
+  port: 9090
+  scrape_interval: 15s
+
+grafana:
+  port: 3000
+  admin_user: "admin"
+  admin_password: "admin"
+
+drift_detection:
+  # PSI thresholds
+  psi_alert_threshold: 0.1
+  psi_retrain_threshold: 0.2
+
+  # KS test significance level
+  ks_significance: 0.05
+
+  # Performance drift
+  auc_drop_tolerance: 0.05
+  auc_critical_drop: 0.10
+
+  # Check frequency
+  check_interval_minutes: 60
+  reference_window_days: 30
+
+alerts:
+  # Channels (extend with Slack, PagerDuty, etc.)
+  channels:
+    - type: "log"
+      level: "WARNING"
+
+  # Alert conditions
+  rules:
+    - name: "high_fraud_rate"
+      condition: "fraud_rate > 0.05"
+      severity: "critical"
+      
+    - name: "model_degradation"
+      condition: "auc_roc < 0.95"
+      severity: "warning"
+      
+    - name: "high_latency"
+      condition: "p99_latency_ms > 100"
+      severity: "warning"
+      
+    - name: "feature_drift"
+      condition: "psi > 0.2"
+      severity: "critical"
