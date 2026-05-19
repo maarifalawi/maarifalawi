@@ -1,0 +1,167 @@
+version: "3.8"
+
+services:
+  # ============================================================
+  # KAFKA INFRASTRUCTURE
+  # ============================================================
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.5.0
+    container_name: fraud-zookeeper
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+    ports:
+      - "2181:2181"
+    healthcheck:
+      test: ["CMD", "nc", "-z", "localhost", "2181"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  kafka:
+    image: confluentinc/cp-kafka:7.5.0
+    container_name: fraud-kafka
+    depends_on:
+      zookeeper:
+        condition: service_healthy
+    ports:
+      - "9092:9092"
+      - "29092:29092"
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:29092,PLAINTEXT_HOST://localhost:9092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "true"
+      KAFKA_LOG_RETENTION_HOURS: 24
+      KAFKA_MESSAGE_MAX_BYTES: 1048576
+    healthcheck:
+      test: ["CMD", "kafka-broker-api-versions", "--bootstrap-server", "localhost:9092"]
+      interval: 10s
+      timeout: 10s
+      retries: 10
+
+  # ============================================================
+  # FRAUD DETECTION APPLICATION
+  # ============================================================
+  fraud-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: fraud-api
+    ports:
+      - "8000:8000"
+    environment:
+      - MODEL_DIR=data/models/fraud_model_v1
+      - KAFKA_BOOTSTRAP_SERVERS=kafka:29092
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - model-data:/app/data/models
+    depends_on:
+      kafka:
+        condition: service_healthy
+    restart: unless-stopped
+
+  fraud-consumer:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: fraud-consumer
+    command: >
+      python -m src.streaming.consumer
+      --bootstrap-servers kafka:29092
+      --input-topic transactions
+      --output-topic fraud-scores
+      --alert-topic fraud-alerts
+      --model-path data/models/fraud_model_v1
+    environment:
+      - KAFKA_BOOTSTRAP_SERVERS=kafka:29092
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - model-data:/app/data/models
+    depends_on:
+      kafka:
+        condition: service_healthy
+    restart: unless-stopped
+
+  fraud-producer:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: fraud-producer
+    command: >
+      python -m src.streaming.producer
+      --bootstrap-servers kafka:29092
+      --topic transactions
+      --tps 50
+      --fraud-ratio 0.018
+    environment:
+      - KAFKA_BOOTSTRAP_SERVERS=kafka:29092
+      - PYTHONUNBUFFERED=1
+    depends_on:
+      kafka:
+        condition: service_healthy
+    profiles:
+      - simulate  # Only start with: docker-compose --profile simulate up
+
+  # ============================================================
+  # MONITORING STACK
+  # ============================================================
+  prometheus:
+    image: prom/prometheus:v2.48.0
+    container_name: fraud-prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./docker/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
+      - prometheus-data:/prometheus
+    command:
+      - "--config.file=/etc/prometheus/prometheus.yml"
+      - "--storage.tsdb.path=/prometheus"
+      - "--storage.tsdb.retention.time=7d"
+    depends_on:
+      - fraud-api
+    restart: unless-stopped
+
+  grafana:
+    image: grafana/grafana:10.2.0
+    container_name: fraud-grafana
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_USERS_ALLOW_SIGN_UP=false
+    volumes:
+      - ./docker/grafana/datasources.yml:/etc/grafana/provisioning/datasources/datasources.yml
+      - ./docker/grafana/dashboards/dashboard.yml:/etc/grafana/provisioning/dashboards/dashboard.yml
+      - ./docker/grafana/dashboards/fraud_dashboard.json:/etc/grafana/provisioning/dashboards/fraud_dashboard.json
+      - grafana-data:/var/lib/grafana
+    depends_on:
+      - prometheus
+    restart: unless-stopped
+
+  # ============================================================
+  # KAFKA UI (optional, for debugging)
+  # ============================================================
+  kafka-ui:
+    image: provectuslabs/kafka-ui:latest
+    container_name: fraud-kafka-ui
+    ports:
+      - "8080:8080"
+    environment:
+      - KAFKA_CLUSTERS_0_NAME=fraud-cluster
+      - KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS=kafka:29092
+      - KAFKA_CLUSTERS_0_ZOOKEEPER=zookeeper:2181
+    depends_on:
+      kafka:
+        condition: service_healthy
+    profiles:
+      - debug  # Only start with: docker-compose --profile debug up
+
+volumes:
+  model-data:
+  prometheus-data:
+  grafana-data:

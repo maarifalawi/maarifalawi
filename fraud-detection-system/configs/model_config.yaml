@@ -1,0 +1,52 @@
+# Model Training Configuration
+# ==============================
+
+data:
+  input_path: "data/raw/transactions.csv"
+  output_dir: "data/processed"
+  train_ratio: 0.7
+  val_ratio: 0.15
+  # test_ratio is 1 - train - val = 0.15
+
+model:
+  name: "fraud_model_v1"
+  output_dir: "data/models"
+
+  xgboost:
+    max_depth: 6
+    learning_rate: 0.05
+    n_estimators: 500
+    subsample: 0.8
+    colsample_bytree: 0.8
+    min_child_weight: 5
+    gamma: 0.1
+    reg_alpha: 0.1
+    reg_lambda: 1.0
+    random_state: 42
+
+  lightgbm:
+    max_depth: 6
+    learning_rate: 0.05
+    n_estimators: 500
+    subsample: 0.8
+    colsample_bytree: 0.8
+    min_child_samples: 20
+    reg_alpha: 0.1
+    reg_lambda: 1.0
+    random_state: 42
+
+  ensemble:
+    xgb_weight: 0.5
+    # lgb_weight = 1 - xgb_weight
+
+training:
+  use_smote: true
+  use_focal_loss: true
+  focal_gamma: 2.0
+  focal_alpha: 0.75
+  cross_validation_folds: 5
+
+inference:
+  threshold: 0.5
+  alert_threshold: 0.7
+  batch_size: 1000

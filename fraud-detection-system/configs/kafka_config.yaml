@@ -1,0 +1,41 @@
+# Kafka Streaming Configuration
+# ==============================
+
+kafka:
+  bootstrap_servers: "localhost:9092"
+  
+producer:
+  topic: "transactions"
+  client_id: "fraud-detection-producer"
+  acks: "all"
+  retries: 3
+  batch_size: 16384
+  linger_ms: 10
+  compression_type: "gzip"
+  tps: 100  # transactions per second
+
+consumer:
+  input_topic: "transactions"
+  output_topic: "fraud-scores"
+  alert_topic: "fraud-alerts"
+  group_id: "fraud-scoring-group"
+  auto_offset_reset: "latest"
+  enable_auto_commit: true
+  max_poll_records: 100
+  fetch_max_wait_ms: 100
+
+topics:
+  - name: "transactions"
+    partitions: 6
+    replication_factor: 1
+    retention_ms: 86400000  # 24 hours
+
+  - name: "fraud-scores"
+    partitions: 6
+    replication_factor: 1
+    retention_ms: 604800000  # 7 days
+
+  - name: "fraud-alerts"
+    partitions: 3
+    replication_factor: 1
+    retention_ms: 2592000000  # 30 days
